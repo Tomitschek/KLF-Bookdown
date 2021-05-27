@@ -1,0 +1,31 @@
+--- 
+title: "Klinikleitfaden"
+subtitle: "Leitfaden perioperative Patientenbetreuung"
+
+author: "Klinik und Poliklinik für Anästhesiologie und Intensivtherapie"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: ""
+---
+
+
+# Vorwort {-}
+
+wer nie sein Brot mit Tränen ass
+Der Leitfaden dient der Orientierung von Kollegen, die neu in eine Abteilung wechseln, dort als Springer eingesetzt werden oder im Akutschmerzdienst tätig sind. 
+
+Er informiert über abteilungsspezifische Abläufe/ Standards und beantwortet häufig gestellte Fragen. 
+
+Er ist nicht bindend und entbindet gleichzeitig den/die Anästhesist/in nicht von einer individuellen Risikoevaluation und entsprechender Adaptation des perioperativen anästhesiologischen Managements und der postoperativen Schmerztherapie.
+
+Eine Beachtung von evtl. Kontraindikationen und Höchstdosierungen (individuelle Dosierungsanpassung für einzelne empfohlene Medikamente) wird erwartet. 
+
+Ebenso sind unabhängig von dem Leitfaden die Dienstanweisungen zu berücksichtigen. 
+
+Die Bearbeiter der einzelnen Kapitel sind verantwortlich für deren Inhalt.
+
+zuletzt erzeugt am `r format(Sys.time(), '%d %B, %Y')`

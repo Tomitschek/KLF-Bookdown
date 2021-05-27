@@ -1,0 +1,33 @@
+# 	Hinweise zur Benutzung {-} 
+
+- Die Listen der Prozeduren/ Operationen innerhalb jedes Bereichs sind alphabetisch sortiert. Die Informationen zu den einzelnen Bereichen sind bewusst teilweise sehr knapp gehalten. **Weitere Informationen stehen in ANE-Wiki.**
+
+```{asis, echo=knitr::is_latex_output()}
+**Beachte:** 
+  
+- Es wurden Hyperlinks zu den Wiki-Seiten, zum „Springen&quot; innerhalb des Dokumentes, ins Intranet und ins Internet eingepflegt.
+- Die Reanimationsalgorithmen des ERC befinden sich in den hinteren Umschlagseiten. 
+- Der Schockraumalgorithmus befindet sich in der vorderen Umschlagseite.
+```
+
+- **Besonders möchten wir auf eGena hinweisen (siehe S. 5) – Eine Hilfe auch für Erfahrene!**
+- Gedruckte Anleitungen unterliegen, sobald sie Druckpresse verlassen haben, einem rapiden Alterungsprozess. Aktuelle Neuerungen - dies betrifft insbesondere die SOPs - werden nach der Freigabe durch die Klinikleitung im Intranet veröffentlicht. Dort besteht auch die Möglichkeit, eine PDF-Version dieses Leitfadens herunter zu laden.
+
+M. Hübler
+
+05.01.2021
+
+## Anwendungsmöglichkeiten im Notfall {-}
+Überprüfen von Handlungsschritten auf Vollständigkeit
+Vorlesen der Handlungsschritte und Ausführung durch das Team
+
+## Anwendungsmöglichkeiten im Alltag  {-}
+- Selbststudium
+- Grundlage für Unterricht oder Mentoring
+- Vorbesprechung (‚Briefing‘) möglicher Komplikationen bei einem konkreten Patienten
+- Nachbesprechung (‚Debriefing‘) eines Zwischenfalls
+
+## ANE-WIKI  {-}
+Auf den [ANE-Wiki](https://carusshare.uniklinikum-dresden.de/kiz/ane/anewiki/Wiki/Homepage.aspx) Seiten finden sich viele nützliche Informationen für den Klinikalltag, aber auch zu den einzelnen Bereichen. Die Seiten leben davon, dass möglichst viele Informationen eingetragen und entsprechend aktualisiert werden. Veränderungen eintragen kann jeder. Wer dazu Fragen hat, bitte an Prof. Hübler wenden.
+Auf ANE-Wiki kann auch von außerhalb des Intranets zugegriffen werden kann. Am einfachsten funktioniert dies über den Internetauftritt unserer Klinik über die Seite http://www.uniklinikum-dresden.de. Dort über Kliniken Anästhesie anwählen. Links befindet sich der Link zu Carusshare „von extern“. Die Anmeldung entspricht der persönlichen Anmeldung an UKD-Rechnern 
+
