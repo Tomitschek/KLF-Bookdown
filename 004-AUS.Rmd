@@ -1,0 +1,382 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# AUS-Außenbereich
+
+D. Haufe
+
+## Wichtige Telefonnummern
+
+Bereichsleiter: 10465
+
+## Allgemeines
+
+## Eingriffe/Interventionen
+
+### Angiographie-Interventionen
+
+> ***`r fa("map-marker-alt")`*** Angio HS 9, EG
+
+[**Interventionen:**]{.ul}
+
+-   **TIPS (oder TIPSS)** transjugulärer intrahepatischer
+    portosystemischer (Stent-) Shunt; Schleuse V. jug. int., darüber
+    US-gestützte Pfortaderpunktion, Dilatation, Stent, ANE nur bei sehr
+    unkooperativen Pat.
+-   **Bergung** abgerissener Portkatheter venöse Schleuse,
+    Rechtsherzpassage (cave: ventrikuläre Herzrhythmusstörungen),
+    „Einfangen" im Pulmonalisstromgebiet
+-   **PTA/Stent** bei pAVK
+-   venöser Beckenstent bei rezidivierender Beinvenenthrombose,
+    Schleuse V. poplitea, Bauchlage
+-   **transvenöse Nierenbiopsie** venöse Schleuse, Punktion via
+    Nierenvene
+-   **Stent/Coiling** bei akuter (viszeraler) Blutung
+-   **Embolisierung/Coiling** bei nicht-zerebralen Gefäß-Malformationen
+-   **PTCD** perkutane transhepatische Cholangiodrainage, Punktion der
+    Gallenwege und Ableitung nach außen, septische Einschwemmung bei
+    Cholangitis mgl.
+-   **Pfortaderembolisation** transkutane Punktion der Pfortader und
+    Embolisation eines Astes mit Gewebekleber, vor Hemihepatektomie
+-   **Dialyse-Shunt**: arterielle Schleuse A. ulnaris, venöse Schleuse
+    Oberarm, kurzer Stromimpuls cubital zwischen a. und v. Katheter,
+    Plug-in eine tiefe Vene
+
+[**Prämedikation**]{.ul}
+
+-   Standard
+
+[**Anästhesieführung**]{.ul}
+
+-   arterielle/venöse Schleuse durch RAD,
+
+-   Intervention häufig in Analgosedierung suffizient mgl.,
+
+-   sonst LaMa/ITN,
+
+-   Dialyse-Shunt auch mit ax. Plexusblockade,
+
+-   Leber-Interventionen eher in Narkose
+
+[**Zugänge/Monitoring:**]{.ul}
+
+-   Standard, bei Blutung großlumig/invasiv
+
+[**AWR**]{.ul}
+
+-   keiner, ANE-Betreuung bis zur Abholung durch Station
+
+[**Besonderheiten**]{.ul}
+
+-   kein BGA-Gerät (-\> URO-OP, NEU-ITS 4. Etage),
+
+-   TIVA-Turm, Standard-Kommode + Kommode für invasive Zugänge sowie
+    Mikrowelle vorhanden,
+
+-   zeitnah im Logbuch Rücktransport anmelden
+
+## Bronchoskopie, starr
+
+> ***`r fa("map-marker-alt")`*** Ort Med. Endoskopie, DINZ (HS 27), EG
+
+[**Beschreibung:**]{.ul}
+
+-   Intubation mit starrem Rohr durch Pulmonologen,
+
+-   endobronchialer Ultraschall EBUS, Biopsie-Entnahmen,
+
+-   Tu-Teilresektion bronchial/tracheal,
+
+-   Ventilimplantation bei COPD, Dauer ca. 30-90 min
+
+[**Prämedikation:**]{.ul} Standard
+
+[**Anästhesieführung:**]{.ul}
+
+-   TIVA, Einleitung mit Maskenbeatmung,
+
+-   bei TOF=0 ITN durch Pulmo,
+
+-   Jet-Beatmung (Twin-Stream),
+
+-   LaMa zur Ausleitung
+
+[**Zugänge/ Monitoring:**]{.ul}
+
+-   Standard, transkutane Kapnometrie vor Ort verfügbar
+
+[**AWR:**]{.ul}
+
+-   Endoskopie-AWR (Überwachung durch MED-Personal)
+
+[**Besonderheiten:**]{.ul}
+
+-   Narkosegerät, Kommode und TIVA-Turm aus MRT-Vorbereitung H27,
+
+-   Jet-Gerät (Twin-Stream) stellt Pulmo
+
+## CT-gestützte Punktion
+
+> ***`r fa("map-marker-alt")`*** CT1 (H59, EG)
+
+[**Beschreibung:**]{.ul}
+
+-   diagnostische (meist Knochen wie WS oder Becken) bzw. therapeutische
+    (z.B. abdominelle Abszessdrainage) Punktionen,
+
+-   Interventionszeit ca. 20-30 min
+
+[**Prämedikation:**]{.ul} Standard
+
+[**Anästhesieführung:**]{.ul}
+
+-   WS-/Beckenpunktion meist in Seitenlage mgl.,
+
+-   tiefe Analgosedierung oder Lama/ITN
+
+[**Zugänge/Monitoring:**]{.ul}
+
+-   Standard, Monitor fernbedienbar (Computer „Monitoring" im
+    Kontrollraum, Programm XDS)
+
+[**AWR:**]{.ul}
+
+-   AWR1 oder VL auf Normalstation
+
+[**Besonderheiten:**]{.ul}
+
+-   Kommode und Perfusoren aus NRAD, ggf. 2. Kommode AWR 2. Ebene
+
+## Elektrokrampftherapie
+
+-\> AneWIKI
+
+> ***`r fa("map-marker-alt")`*** Behandlungsraum PSY-S4 (H25)
+
+| EKT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Auslösen eines generalisierten Krampfanfalls durch zerebrale Stromapplikation; Behandlungsserie (12 x und z.T. deutlich mehr, initial Mo-Mi-Fr, dann Ausschleichen)                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Indikation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| therapierefraktäre Depression (seltener Schizophrenie)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Prämedikation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Aufklärung für die gesamte Serie, Geschäftsfähigkeit beachten, keine med. PM (Heben der Krampfschwelle), KI beachten (z.B. ICD)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Anästhesieführung**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Maskennarkose; Flexüle und RR-Manschette am selben (linken) Arm; vor Induktion Glycopyronium; Induktion mit Alfentanil (von PSY-S4) und Etomidat, vor Relaxans Tourniquet am freien Arm über RRsys (motorische Krampfkontrolle im EMG), Succinylcholin; vor Krampfauslösung Hyperventilation; Stimulation in Apnoe, erforderliche Krampfdauer \> 20 sec; ab 120 sec Gabe von Propofol/ Benzodiazepin; initial nicht selten selbstlimitierende Asystolie für einige Sekunden, dann z.T. deutliche sympathomimetische Reaktion mit Hypertension und Tachykardie (ggf. Urapidil/Betablocker), Dauer der Aufwachphase variabel |
+| **Zugänge/Monitoring**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Standard                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **AWR**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Übergabe an Station bei zunehmender Vigilanz und stabilen Vitalparametern, 2 h Betreuung durch Sr. PSY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Besonderheiten**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| kein zentraler Gasanschluss (O2-Flasche nach Narkose schließen)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+## Endo-Vac
+
+> ***`r fa("map-marker-alt")`*** Gastroskopie-Raum, Chir. Endoskopie,
+> H59, EG
+
+-   Beschreibung: endoskopische Anlage Mini-VAC-Schwämmchen bei
+    Anastomosen-Insuffizienz nach Ösophagusresektion oder Gastrektomie,
+    Dauer 10-20 min, Behandlungsserie mit 2 Wechseln pro Woche (Mo+Do
+    oder Di+Fr)
+
+-   Prämedikation: vor VAC-Anlage Aufklärung für die gesamte Serie,
+    meist keine med. PM • Anästhesieführung: ITN
+
+-   Zugänge/Monitoring: Standard (Relaxometrie!)
+
+-   AWR: direkte VL auf Station, AWR1 mgl. (cave: häufig multiresistente
+    Keime) • Besonderheiten: Narkosegerät und Kommode im
+    gegenüberliegenden Raum holen, 2 Perfusoren vorhanden
+
+## ESD
+
+> ***`r fa("map-marker-alt")`*** Med. Endoskopie, DINZ (H27), EG
+
+-   Beschreibung: Endoskopische Submukosadissektion: minimal-invasives
+    gastroskopisches Herauspräparieren eines auf die Mukosa begrenzten
+    (meist Magen-)Tumors im Frühstadium, Dauer ca. 2-3 h,
+    Magenperforation möglich
+
+-   Prämedikation: Standard
+
+-   Anästhesieführung: ITN
+
+-   Zugänge/Monitoring: Standard
+
+-   AWR: meist direkte Verlegung auf MK-ITS2, sonst Endoskopie-AWR
+    (Überwachung durch MED-Personal) mgl.
+
+-   Besonderheiten: Narkosegerät, Kommode und Perfusoren aus
+    MRT-Vorbereitung DINZ holen, CO2-Insufflation über Endoskop -\>
+    Hyperkapnie, AMV, teilweise Kapnoperitoneum mit deutlicher
+    Steigerung der Beatmungsdrücke, zur Entlastung intraperitoneale
+    Flexüle durch Internist
+
+## MRT
+
+> ***`r fa("map-marker-alt")`*** MRT DINZ H27, EG, MRT H59, EG
+
+[**Beschreibung:**]{.ul}
+
+-   meist Schädel-MRT vor neurochirurgischer Tiefenhirnstimulation bei
+    Mb. Parkinson (Tremor),
+
+-   Dauer ca. 45-60 min,
+
+-   seltener Narkose für demente, klaustrophobische oder chron.
+    Sz-Patienten
+
+[**Prämedikation:**]{.ul}
+
+-   vor THS Aufklärung und Einverständnis für MRT und OP (2
+    Narkoseprotokolle), PM nach Standard • Anästhesieführung: ITN
+
+[**Zugänge/Monitoring:**]{.ul}
+
+-   Standard, HS 27: Vitalparameter und Gasmonitoring über
+    Radiologie-MRT-Monitor, keine Fernübertragung in Kontrollraum, HS
+    59: Fernübertragung
+
+[**AWR:**]{.ul}
+
+-   Endoskopie-AWR (Überwachung durch MED-Personal), b.B. VL auf MK-ITS2
+
+[**Besonderheiten:**]{.ul}
+
+-   HS 59: MRT-fähiges Perfusor-Rack
+
+-   HS 27: bei Katecholaminbedarf MRT-taugliche Spritzenpumpe auf
+    NEU-ITS oder MK-ITS, wird auf Anfrage zur Verfügung gestellt und
+    programmiert (ANE-Personal ist nicht eingewiesen!)
+
+## Photonenbestrahlung
+
+> ***`r fa("map-marker-alt")`*** Strahlenklinik, Therapie 4 oder 5
+> (HS44, Schuberstraße), EG
+
+[**Beschreibung:**]{.ul}
+
+-   Kleinkinder (1 bis ca. 4 Jahre), „Stillhaltenarkose" für die nur
+    wenige Minuten dauernde Bestrahlung; Serie von ca. 10-20
+    Einzelsitzungen (2-4 Wochen)
+
+[**Prämedikation:**]{.ul}
+
+-   Aufklärung für die gesamte Serie, in der Regel keine PM notwendig
+
+[**Anästhesieführung:**]{.ul}
+
+-   LaMa (Propofol/Ultiva), ggf. Propofolsedierung mit Spontanatmung
+
+[**Zugänge/Monitoring:**]{.ul}
+
+-   Kinder haben angeschlossenen Hickman-Katheter, Standardmonitoring,
+    Übertragung an Datenmonitor in Kontrollraum (Programm XDS)
+
+[**AWR:**]{.ul}
+
+-   einer, ANE-Betreuung bis zur Abholung durch Station
+
+[**Besonderheiten**]{.ul}
+
+-   Narkosegerät aus Vorraum Therapie 3 holen (Brachytherapie),
+    Einleitung in Anwesenheit der Eltern am Bestrahlungsplatz, zeitnah
+    im Logbuch Rücktransport anmelden
+
+## POEM ANE-Wiki
+
+> ***`r fa("map-marker-alt")`*** Mediz. Endoskopie, DINZ (HS 27), EG
+
+[**Beschreibung:**]{.ul}
+
+-   Perorale endoskopische Myotomie: minimal invasive Behandlung der
+    Achalasie, gastroskopische Mukosainzision in Höhe mittlerer
+    Ösophagus, submuköse Dissektion bis zum gastroösophagealen Übergang
+    (Tunnelung zum Infektionsschutz), dort Muscularis-Inzision, zuletzt
+    Miniclips an Mukosa-Inzisionsstelle;
+
+-   Dauer 2-3 Stunden,
+
+-   Perforation möglich,
+
+-   z.T. auch POEM eines spastischen Pylorus Prämedikation: Standard
+
+[**Anästhesieführung:**]{.ul} ITN
+
+[**Zugänge/Monitoring:**]{.ul} Standard
+
+[**AWR:**]{.ul} direkte Verlegung MK-ITS2
+
+[**Besonderheiten:**]{.ul}
+
+-   Narkosegerät und Kommode aus MRT-Vorbereitung DINZ holen,
+
+-   CO2-Insufflation über Endoskop -\> Hyperkapnie, AMV,
+
+-   regelhaft Hautemphysem und Kapnoperitoneum mit deutlicher Steigerung
+    der Beatmungsdrücke, zur Entlastung intraperitoneale Flexüle durch
+    Internisten
+
+## Protonenbestrahlung
+
+> ***`r fa("map-marker-alt")`*** Oncoray (HS 130, Schubertstr.), 1. UG
+
+-   Beschreibung: im Vgl. zur konventionellen Radiatio gewebeschonendere
+    Bestrahlung von Malignomen; Anästhesie für Kleinkinder (1 bis ca. 4
+    Jahre), meist mit Hirntumor; „Stillhaltenarkose" für ca. 15-20 min;
+    bei kraniospinaler Achse (Kopf+WS) ca. 30-45 min (Bauchlage), Serie
+    von ca. 30 täglichen Einzelsitzungen (6 Wochen)
+
+-   Prämedikation: Aufklärung für die gesamte Serie, in der Regel keine
+    PM notwendig
+
+-   Anästhesieführung: LaMa, bei Bauchlage ITN, TIVA (Propofol/Ultiva) •
+    Zugänge/Monitoring: Kinder haben angeschlossenen Hickman-Katheter,
+    Standardmonitoring, Übertragung Datenmonitor in Kontrollraum
+
+-   AWR: ANE-Betreuung bis zur Abholung durch Station
+
+-   Besonderheiten: Einleitung in Anwesenheit der Eltern im AWR, ca. 1
+    min Fahrt bis zum Bestrahlungsplatz bzw. zurück (Beutelbeatmung oder
+    Apnoe nach Präoxygenierung), zeitnah im Logbuch Rücktransport
+    anmelden
+
+## RFA
+
+> ***`r fa("map-marker-alt")`*** CT1 (HS 59, EG)
+
+[**Beschreibung:**]{.ul}
+
+-   Radiofrequenzablation: Therapie bei malignen Tumoren der Leber (HCC,
+    Metastasen), seltener Niere (Bauchlage), Lunge, oder benignen
+    Knochentumoren;
+
+-   RFA WS Facettengelenke bei radikulären Schmerzen (Bauchlage);
+
+-   CT-gestützte Punktion, Applikation von Hochfrequenzstrom mit
+    Thermonekrose, Dauer pro Herd ca. 10-20 min, bei Mikrowelle deutlich
+    kürzer
+
+[**Prämedikation:**]{.ul} Standard
+
+[**Anästhesieführung:**]{.ul}
+
+-   LaMa/ITN, bei RFA Leber und Facettengelenken Analgosedierung mgl.
+    (ungünstig: starke Atemverschieblichkeit der Leber bei höherer
+    Opioiddosierung)
+
+[**Zugänge/Monitoring:**]{.ul}
+
+-   Standard, Monitor fernbedienbar von Computer im Kontrollraum
+    (Programm XDS)
+
+[AWR:]{.ul}
+
+-   AWR1 oder VL auf Normalstation
+
+[**Besonderheiten:**]{.ul}
+
+-   Kommode und ggf. Perfusoren aus NRAD, 2. Kommode im AWR 2. Ebene
