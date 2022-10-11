@@ -4,16 +4,11 @@
 
 Th. Müller
 
-::: {.rmdnote}
 
-The `bs4_book` style also includes an `.rmdnote` callout block like this one.
 
-```{r collapse=TRUE} head(beaver1, n = 5) ```
-:::
+> ***`r fa("location-dot")`*** Haus 51. über elbseitigen Aufzug H19
 
-> ***`r fa("map-marker-alt")`*** Haus 51. über elbseitigen Aufzug H19
-
-## Organisatorisches
+***`r fa("square-phone")` Wichtige Telefonnummern***
 
 |                         |       Nummer |
 |-------------------------|-------------:|
@@ -28,6 +23,9 @@ The `bs4_book` style also includes an `.rmdnote` callout block like this one.
 | Reinigung:              |        19341 |
 | OP-Büro:                |         6966 |
 | OP-Pflege:              |        16966 |
+
+## Organisatorisches
+
 
 ### Ausstattung
 

@@ -3,7 +3,9 @@
 
 W. Lorenz
 
-| Wichtige Telefonnummern       |             |
+***`r fa("square-phone")` Wichtige Telefonnummern***
+
+|                               |      Nummer |
 |-------------------------------|-------------|
 | Bereichsleiter                | 19003       |
 | Pausenraum                    | 4743        |
@@ -15,130 +17,95 @@ W. Lorenz
 | Station GYN-S3 (Brustzentrum) | 14737/13302 |
 | Kreissaal                     | 2365        |
 
+## Eingriffe
+
 ### Follikelpunktion
 
 -   Prämedikation: keine Besonderheiten
-
 -   Anästhesieführung: Maske
-
 -   Zugänge/Monitoring: Standard
 
 ### Hysterektomie, abdominell
 
 -   Prämedikation: keine Besonderheiten
-
 -   Anästhesieführung: ITN
-
 -   Zugänge/Monitoring: Standard Hysterektomie, vaginal
-
 -   Prämedikation: keine Besonderheiten
-
 -   Anästhesieführung: CSE (ggf. ITN)
-
 -   Zugänge/Monitoring: Standard Hysteroskopie, operativ
-
 -   Prämedikation: keine Besonderheiten
-
 -   Anästhesieführung: LM
-
 -   Besonderheiten: Hysteroskopiesyndrom durch Einschwemmung, strenge Bilanzierung durch Operateur, alle 30 min BGA
 
 ### Kleine Eingriffe (Hysteroskopie (HSK), Abrasio)
 
-Prämedikation: keine Besonderheiten
-
-Anästhesieführung: Maske/LM/ bei Adipositas Spa
-
-Besonderheiten: bei HSK Einschwemmung analog TUR-Syndrom möglich
+- Prämedikation: keine Besonderheiten
+- Anästhesieführung: Maske/LM/ bei Adipositas Spa
+- Besonderheiten: bei HSK Einschwemmung analog TUR-Syndrom möglich
 
 ### Laparoskopie
 
-Prämedikation: keine Besonderheiten
-
-Anästhesieführung: ITN, beide Arme angelagert
-
-Zugänge/Monitoring: Standard
+- Prämedikation: keine Besonderheiten
+- Anästhesieführung: ITN, beide Arme angelagert
+- Zugänge/Monitoring: Standard
 
 ### Laparoskopie (da Vinci)
 
-Prämedikation: ZVK, ADM aufklären, OP H27 (URO)
-
-Anästhesieführung: TIVA, PEEP mind. 10
-
-Zugänge/Monitoring: ZVK, ADM, BIS, TOF
-
-Besonderheiten: beide Arme angelagert, Vakuum-Matratze, ggf. CPAP im AWR
+- Prämedikation: ZVK, ADM aufklären, OP H27 (URO)
+- Anästhesieführung: TIVA, PEEP mind. 10
+- Zugänge/Monitoring: ZVK, ADM, BIS, TOF
+- Besonderheiten: beide Arme angelagert, Vakuum-Matratze, ggf. CPAP im AWR
 
 ### Mamma-OP
 
-Prämedikation: keine Besonderheiten
-
-Anästhesieführung: ITN/LM
-
-Zugänge/Monitoring: Standard
-
-Besonderheiten: Intraop. Lagerungskontrolle nach Aufsetzen
+- Prämedikation: keine Besonderheiten
+- Anästhesieführung: ITN/LM
+- Zugänge/Monitoring: Standard
+- Besonderheiten: Intraop. Lagerungskontrolle nach Aufsetzen
 
 ### Ovarial-Ca (Expl. Laparotomie)
 
-Beschreibung: HE mit Adnexen + OE + RLA + Deperitonealisierung
-
-Prämedikation: keine Besonderheiten
-
-Anästhesieführung: ITN + TEA • Zugänge/Monitoring: ZVK, ADM
-
-Besonderheiten: hoher Volumenbedarf, post_OP ITS/IMC
-
-PDA zur Geburt ANE-Wiki
-
-Anästhesieführung: LEA
-
-Zugänge/Monitoring: peripherer Zugang/ CTG + Standard
-
-Besonderheiten: Initial 10-12 ml Naropin 0,1% + 0,625µ/ml Sufenta, weiter mit PCEA n. KS-Protokoll
+- Beschreibung: HE mit Adnexen + OE + RLA + Deperitonealisierung
+- Prämedikation: keine Besonderheiten
+- Anästhesieführung: ITN + TEA • Zugänge/Monitoring: ZVK, ADM
+- Besonderheiten: hoher Volumenbedarf, post_OP ITS/IMC
+- PDA zur Geburt ANE-Wiki
+- Anästhesieführung: LEA
+- Zugänge/Monitoring: peripherer Zugang/ CTG + Standard
+- Besonderheiten: Initial 10-12 ml Naropin 0,1% + 0,625µ/ml Sufenta, weiter mit PCEA n. KS-Protokoll
 
 ### Portanlage:
 
 Prämedikation: keine Besonderheiten
-
 Anästhesieführung: LA mit Sedierung
-
 Zugänge/Monitoring: Standard
 
-Sectio caesaria
 
-Prämedikation: keine
+### Sectio caesaria
 
-Anästhesieführung: SPA (bei Notsectio ITN)
+- Prämedikation: keine
+- Anästhesieführung: SPA (bei Notsectio ITN)
+- Zugänge/Monitoring: Standard
+- AWR: bei Besonderheiten sonst Kreissaal
+- Besonderheiten: Mitteldruck \> 70 mmHg, Linksseitenlage, Oxytocin als Kurzinfusion 
 
-Zugänge/Monitoring: Standard
+### TVT (tensionfree vaginal tape)
+- Prämedikation: keine Besonderheiten
+- Anästhesieführung: LA mit Sedierung
+- Zugänge/Monitoring: Standard
 
-AWR: bei Besonderheiten sonst Kreissaal
+### TMMR
 
-Besonderheiten: Mitteldruck \> 70 mmHg, Linksseitenlage, Oxytocin als Kurzinfusion TVT (tensionfree vaginal tape)
+- Prämedikation: keine Besonderheiten
+- Anästhesieführung: ITN + TEA
+- Zugänge/Monitoring: ZVK, 2 Flexülen, invasive ADM
+- Besonderheiten: 4EK (2x gekreuzt, 2x BAB 
 
-Prämedikation: keine Besonderheiten
+### Vulvektomie
 
-Anästhesieführung: LA mit Sedierung
-
-Zugänge/Monitoring: Standard
-
-TMMR
-
-Prämedikation: keine Besonderheiten
-
-Anästhesieführung: ITN + TEA
-
-Zugänge/Monitoring: ZVK, 2 Flexülen, invasive ADM
-
-Besonderheiten: 4EK (2x gekreuzt, 2x BAB Vulvektomie
-
-Prämedikation: keine
-
-Besonderheiten:
-
-Lehnt eine Patientin eine thorakale PDA ab, bitte immer die Klinikdirektorin GYN informieren!
-
-Antibiotikaprophylaxe erfolgt vor/ nach Einleitung nach Anordnung durch den Operateur im Orbis OP-Plan • Anästhesieführung: CSE (ggf. ITN)
-
-Zugänge/Monitoring: Standard
+- Prämedikation: keine
+- Besonderheiten:
+- Lehnt eine Patientin eine thorakale PDA ab, bitte immer die Klinikdirektorin GYN informieren!
+- Antibiotikaprophylaxe erfolgt vor/ nach Einleitung nach Anordnung durch den Operateur im Orbis OP-Plan
+- Anästhesieführung: CSE (ggf. ITN)
+- Zugänge/Monitoring: Standard

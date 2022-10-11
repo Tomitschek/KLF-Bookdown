@@ -2,9 +2,9 @@
 
 M. Trausch
 
-> ***`r fa("map-marker-alt")`*** Haus 33. OP-Trakt ist in der 1. Etage. Der Zugang zur OP-Schleuse über Treppenhaus auf der Rückseite (Seite Fetscherstr.)
+> ***`r fa("location-dot")`*** Haus 33. OP-Trakt ist in der 1. Etage. Der Zugang zur OP-Schleuse über Treppenhaus auf der Rückseite (Seite Fetscherstr.)
 
-**`r fa("phone-square-alt")` Wichtige Telefonnummern**
+**`r fa("square-phone")` Wichtige Telefonnummern**
 
 +------------------------+--------------+
 |                        | Nummer       |

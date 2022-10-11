@@ -8,7 +8,7 @@ editor_options:
 
 D. Haufe
 
-## Wichtige Telefonnummern
+***`r fa("square-phone")` Wichtige Telefonnummern***
 
 Bereichsleiter: 10465
 
@@ -18,7 +18,7 @@ Bereichsleiter: 10465
 
 ### Angiographie-Interventionen
 
-> ***`r fa("map-marker-alt")`*** Angio HS 9, EG
+> ***`r fa("location-dot")`*** Angio HS 9, EG
 
 [**Interventionen:**]{.ul}
 
@@ -80,7 +80,7 @@ Bereichsleiter: 10465
 
 ## Bronchoskopie, starr
 
-> ***`r fa("map-marker-alt")`*** Ort Med. Endoskopie, DINZ (HS 27), EG
+> ***`r fa("location-dot")`*** Ort Med. Endoskopie, DINZ (HS 27), EG
 
 [**Beschreibung:**]{.ul}
 
@@ -120,7 +120,7 @@ Bereichsleiter: 10465
 
 ## CT-gestützte Punktion
 
-> ***`r fa("map-marker-alt")`*** CT1 (H59, EG)
+> ***`r fa("location-dot")`*** CT1 (H59, EG)
 
 [**Beschreibung:**]{.ul}
 
@@ -154,27 +154,27 @@ Bereichsleiter: 10465
 
 -\> AneWIKI
 
-> ***`r fa("map-marker-alt")`*** Behandlungsraum PSY-S4 (H25)
+> ***`r fa("location-dot")`*** Behandlungsraum PSY-S4 (H25)
 
-| EKT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Auslösen eines generalisierten Krampfanfalls durch zerebrale Stromapplikation; Behandlungsserie (12 x und z.T. deutlich mehr, initial Mo-Mi-Fr, dann Ausschleichen)                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Indikation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| therapierefraktäre Depression (seltener Schizophrenie)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Prämedikation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Aufklärung für die gesamte Serie, Geschäftsfähigkeit beachten, keine med. PM (Heben der Krampfschwelle), KI beachten (z.B. ICD)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Anästhesieführung**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Maskennarkose; Flexüle und RR-Manschette am selben (linken) Arm; vor Induktion Glycopyronium; Induktion mit Alfentanil (von PSY-S4) und Etomidat, vor Relaxans Tourniquet am freien Arm über RRsys (motorische Krampfkontrolle im EMG), Succinylcholin; vor Krampfauslösung Hyperventilation; Stimulation in Apnoe, erforderliche Krampfdauer \> 20 sec; ab 120 sec Gabe von Propofol/ Benzodiazepin; initial nicht selten selbstlimitierende Asystolie für einige Sekunden, dann z.T. deutliche sympathomimetische Reaktion mit Hypertension und Tachykardie (ggf. Urapidil/Betablocker), Dauer der Aufwachphase variabel |
-| **Zugänge/Monitoring**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Standard                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **AWR**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Übergabe an Station bei zunehmender Vigilanz und stabilen Vitalparametern, 2 h Betreuung durch Sr. PSY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Besonderheiten**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| kein zentraler Gasanschluss (O2-Flasche nach Narkose schließen)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+- Auslösen eines generalisierten Krampfanfalls durch zerebrale Stromapplikation; Behandlungsserie (12 x und z.T. deutlich mehr, initial Mo-Mi-Fr, dann Ausschleichen)                                                   
+
+- **Indikation: **                                                                                              therapierefraktäre Depression (seltener Schizophrenie)                                                  - **Prämedikation**                                                                                          Aufklärung für die gesamte Serie, Geschäftsfähigkeit beachten, keine med. PM (Heben der Krampfschwelle), KI beachten (z.B. ICD)                                                                                         - **Anästhesieführung**                                                                                    
+  - Maskennarkose; 
+  - Flexüle und RR-Manschette am selben (linken) Arm; 
+  - vor Induktion Glycopyronium;
+  - Induktion mit Alfentanil (von PSY-S4) und Etomidat, 
+  - vor Relaxans Tourniquet am freien Arm über RRsys (motorische Krampfkontrolle im EMG), Succinylcholin;
+  - vor Krampfauslösung Hyperventilation; 
+  - Stimulation in Apnoe, erforderliche Krampfdauer \> 20 sec; 
+    - ab 120 sec Gabe von Propofol/ Benzodiazepin; initial nicht selten selbstlimitierende Asystolie für einige Sekunden, dann z.T. deutliche sympathomimetische Reaktion mit Hypertension und Tachykardie (ggf. Urapidil/Betablocker), Dauer der Aufwachphase variabel
+    
+- **Zugänge/Monitoring: ** Standard
+- **AWR: ** Übergabe an Station bei zunehmender Vigilanz und stabilen Vitalparametern, 2 h Betreuung durch Sr. PSY
+- **Besonderheiten: ** kein zentraler Gasanschluss (O2-Flasche nach Narkose schließen)
 
 ## Endo-Vac
 
-> ***`r fa("map-marker-alt")`*** Gastroskopie-Raum, Chir. Endoskopie,
+> ***`r fa("location-dot")`*** Gastroskopie-Raum, Chir. Endoskopie,
 > H59, EG
 
 -   Beschreibung: endoskopische Anlage Mini-VAC-Schwämmchen bei
@@ -193,7 +193,7 @@ Bereichsleiter: 10465
 
 ## ESD
 
-> ***`r fa("map-marker-alt")`*** Med. Endoskopie, DINZ (H27), EG
+> ***`r fa("location-dot")`*** Med. Endoskopie, DINZ (H27), EG
 
 -   Beschreibung: Endoskopische Submukosadissektion: minimal-invasives
     gastroskopisches Herauspräparieren eines auf die Mukosa begrenzten
@@ -217,7 +217,7 @@ Bereichsleiter: 10465
 
 ## MRT
 
-> ***`r fa("map-marker-alt")`*** MRT DINZ H27, EG, MRT H59, EG
+> ***`r fa("location-dot")`*** MRT DINZ H27, EG, MRT H59, EG
 
 [**Beschreibung:**]{.ul}
 
@@ -254,7 +254,7 @@ Bereichsleiter: 10465
 
 ## Photonenbestrahlung
 
-> ***`r fa("map-marker-alt")`*** Strahlenklinik, Therapie 4 oder 5
+> ***`r fa("location-dot")`*** Strahlenklinik, Therapie 4 oder 5
 > (HS44, Schuberstraße), EG
 
 [**Beschreibung:**]{.ul}
@@ -288,7 +288,7 @@ Bereichsleiter: 10465
 
 ## POEM ANE-Wiki
 
-> ***`r fa("map-marker-alt")`*** Mediz. Endoskopie, DINZ (HS 27), EG
+> ***`r fa("location-dot")`*** Mediz. Endoskopie, DINZ (HS 27), EG
 
 [**Beschreibung:**]{.ul}
 
@@ -322,7 +322,7 @@ Bereichsleiter: 10465
 
 ## Protonenbestrahlung
 
-> ***`r fa("map-marker-alt")`*** Oncoray (HS 130, Schubertstr.), 1. UG
+> ***`r fa("location-dot")`*** Oncoray (HS 130, Schubertstr.), 1. UG
 
 -   Beschreibung: im Vgl. zur konventionellen Radiatio gewebeschonendere
     Bestrahlung von Malignomen; Anästhesie für Kleinkinder (1 bis ca. 4
@@ -346,7 +346,7 @@ Bereichsleiter: 10465
 
 ## RFA
 
-> ***`r fa("map-marker-alt")`*** CT1 (HS 59, EG)
+> ***`r fa("location-dot")`*** CT1 (HS 59, EG)
 
 [**Beschreibung:**]{.ul}
 
