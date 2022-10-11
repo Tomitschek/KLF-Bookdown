@@ -1,0 +1,913 @@
+---
+title: "Klinikleitfaden"
+subtitle: "Leitfaden perioperative Patientenbetreuung"
+
+author: "Klinik und Poliklinik für Anästhesiologie und Intensivtherapie"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: ""
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+library(bslib)
+library(downlit)
+```
+
+```{=html}
+<!---
+your comment goes here
+and here
+-->
+```
+# Vorwort {.unnumbered}
+
+Der Leitfaden dient der Orientierung von Kollegen, die neu in eine Abteilung wechseln, dort als Springer eingesetzt werden oder im Akutschmerzdienst tätig sind.
+
+Er informiert über abteilungsspezifische Abläufe/ Standards und beantwortet häufig gestellte Fragen.
+
+Er ist nicht bindend und entbindet gleichzeitig den/die Anästhesist/in nicht von einer individuellen Risikoevaluation und entsprechender Adaptation des perioperativen anästhesiologischen Managements und der postoperativen Schmerztherapie.
+
+Eine Beachtung von evtl. Kontraindikationen und Höchstdosierungen (individuelle Dosierungsanpassung für einzelne empfohlene Medikamente) wird erwartet.
+
+Ebenso sind unabhängig von dem Leitfaden die Dienstanweisungen zu berücksichtigen.
+
+Die Bearbeiter der einzelnen Kapitel sind verantwortlich für deren Inhalt.
+
+zuletzt erzeugt am `r format(Sys.time(), '%d %B, %Y')`
+
+<!--chapter:end:index.Rmd-->
+
+# Hinweise zur Benutzung {.unnumbered}
+
+Die Listen der Prozeduren/ Operationen innerhalb jedes Bereichs sind alphabetisch sortiert. Die Informationen zu den einzelnen Bereichen sind bewusst teilweise sehr knapp gehalten. 
+
+**Weitere Informationen stehen in ANE-Wiki.**
+
+```{asis, echo=knitr::is_latex_output()}
+**Beachte:** 
+  
+- Es wurden Hyperlinks zu den Wiki-Seiten, zum „Springen&quot; innerhalb des Dokumentes, ins Intranet und ins Internet eingepflegt.
+- Die Reanimationsalgorithmen des ERC befinden sich in den hinteren Umschlagseiten. 
+- Der Schockraumalgorithmus befindet sich in der vorderen Umschlagseite.
+```
+
+**Besonders möchten wir auf eGena hinweisen (siehe S. 5) -- Eine Hilfe auch für Erfahrene!**
+
+Gedruckte Anleitungen unterliegen, sobald sie Druckpresse verlassen haben, einem rapiden Alterungsprozess. Aktuelle Neuerungen - dies betrifft insbesondere die SOPs - werden nach der Freigabe durch die Klinikleitung im Intranet veröffentlicht. Dort besteht auch die Möglichkeit, eine PDF-Version dieses Leitfadens herunter zu laden.
+
+M. Hübler
+
+05.01.2021
+
+## Anwendungsmöglichkeiten im Notfall {.unnumbered}
+
+Überprüfen von Handlungsschritten auf Vollständigkeit Vorlesen der Handlungsschritte und Ausführung durch das Team
+
+## Anwendungsmöglichkeiten im Alltag {.unnumbered}
+
+-   Selbststudium
+-   Grundlage für Unterricht oder Mentoring
+-   Vorbesprechung (‚Briefing') möglicher Komplikationen bei einem konkreten Patienten
+-   Nachbesprechung (‚Debriefing') eines Zwischenfalls
+
+## ANE-WIKI {.unnumbered}
+
+Auf den [ANE-Wiki](https://carusshare.uniklinikum-dresden.de/kiz/ane/anewiki/Wiki/Homepage.aspx) Seiten finden sich viele nützliche Informationen für den Klinikalltag, aber auch zu den einzelnen Bereichen. Die Seiten leben davon, dass möglichst viele Informationen eingetragen und entsprechend aktualisiert werden. Veränderungen eintragen kann jeder. Wer dazu Fragen hat, bitte an Prof. Hübler wenden. Auf ANE-Wiki kann auch von außerhalb des Intranets zugegriffen werden kann. Am einfachsten funktioniert dies über den Internetauftritt unserer Klinik über die Seite <http://www.uniklinikum-dresden.de>. Dort über Kliniken Anästhesie anwählen. Links befindet sich der Link zu Carusshare „von extern". Die Anmeldung entspricht der persönlichen Anmeldung an UKD-Rechnern 
+
+<!--chapter:end:001-Benutzung.Rmd-->
+
+# (PART) I Anästhesie Bereiche {.unnumbered}
+
+# AOP Ambulantes OP-Zentrum
+
+Th. Müller
+
+::: {.rmdnote}
+
+The `bs4_book` style also includes an `.rmdnote` callout block like this one.
+
+```{r collapse=TRUE} head(beaver1, n = 5) ```
+:::
+
+> ***`r fa("map-marker-alt")`*** Haus 51. über elbseitigen Aufzug H19
+
+## Organisatorisches
+
+|                         |       Nummer |
+|-------------------------|-------------:|
+| Bereichsleiter          |        19910 |
+| OP-Saal 1 (Andok 55):   |         6915 |
+| OP-Saal 2 (Andok 56):   |         6914 |
+| OP-Saal 3 (Andok 57):   |         6913 |
+| OP-Saal 4 (Andok 58):   |         6911 |
+| ANE-Pflege:             | 19361/ 19362 |
+| Aufenthaltsraum:        |         6975 |
+| Tagesklinik (Sr. Gabi): |        18168 |
+| Reinigung:              |        19341 |
+| OP-Büro:                |         6966 |
+| OP-Pflege:              |        16966 |
+
+### Ausstattung
+
+-   Narkosegerät Leon
+-   C-Mac
+-   Einmalbrochoskop 5 mm
+-   Hotline
+-   BZ-Gerät in Tagesklinik
+-   BGA-Gerät
+-   Ultraschall (GE-Laptop, Mindray Laptop, Philips Spark, Philips Afinity)
+-   Relaxometer
+-   Nervenstimulator
+-   Baxter Pumpen
+-   Rea-Rucksack
+-   LifePak 20e
+
+### Patientenströme
+
+#### Normalstation
+
+-   erster Patient kommt automatisch
+-   Folgepatienten möglichst im Austausch mit AWR
+-   AWR als Holdingarea nutzen.
+
+#### MK3-S2 (diabetische Füße)
+
+-   Die Patienten werden zuvor von der Station in die Tagesklinik (Sr. Gabi) gebracht.
+-   post-OP ohne AWR wieder in die TK.
+-   isolationspflichtige Patienten absprechen.
+
+#### isolationspflichtige Patienten
+
+-   direkt in den Saal, aus dem Saal direkt auf Station
+-   Parallele Einleitung nur bei freiem Saal nach Absprache
+
+#### ambulante Patienten
+
+-   werden aus TK abgerufen
+
+#### Kinder
+
+-   Voraussetzungen: \>10 Jahre und \>30 kg
+
+-   keine Risikokinder im AOP (z.B. Dysmorphie, schwieriger Atemweg, ITS-Pflichtigkeit, unkooperative Patienten, etc.) Risikopatienten
+
+-   keine Risikopatienten im AOP, insbesondere:
+
+    -   hohe Transfusionswahrscheinlichkeit (Logistik)
+    -   OP mit wahrscheinlicher postoperativer ITS-/IMC-Pflichtigkeit
+    -   bekannter schwieriger Atemweg nach Rücksprache
+
+#### Patienten von ITS
+
+-   Voraussetzung:
+
+    -   stabiler Kreislauf
+    -   keine schwerwiegende respiratorische Störung
+
+## Auflegen
+
+-   Schultertisch nur für Schulterchirurgie
+-   bei Fuß-OP: Füße bis ans Ende des OP-Tisches
+-   2 Armschienen
+-   1 angeschraubter Infusionsständer
+
+## Einleitung
+
+-   OP-Tisch für RA nicht anbremsen
+-   Patienten mit Name im Monitor aufnehmen: Scanner
+-   niedrige Tropfengeschwindigkeit der Infusion
+-   bei Standardeingriffen keine 3-Wege-Hähne oder Verlängerungen
+-   Monitoring-Kabel sollen nicht den Boden berühren
+
+## Anästhesie bei ambulanten Operationen
+
+-   beachte allg. [Empfehlung DGAI](https://www.reanitrain.de/downloads/leitlinien/operative%20Eingriffe/ambulante%20OPs%20-%20zahnaerztliche%20Eingriffe/Leitlinie%20fuer%20ambulantes%20Operieren%20bzw.Tageschirurgie.pdf)
+
+-   sparsam infundieren
+
+-   Spinalanästhesie
+
+    -   Chlorprocain, Prilocain 2% oder Bupivacain 0,5% ohne Fentanyl
+    -   nach einer Spinalanästhesie: Ultraschall der Harnblase im AWR (Dokumentation nicht vergessen!)
+
+-   Regionalanästhesie obere Extremität
+
+    -   Bei zu erwartenden postoperativen Schmerzen Ropivacain sonst Prilocain
+
+-   Regionalanästhesie untere Extremität
+
+    -   Ropivacain nur nach Rücksprache
+    -   Wundrandinfiltration durch den Operateur mit Ropivacain falls möglich
+
+-   vor Entlassung: post-OP Visite durch Anästhesie (Tagesklinik)
+
+<!--chapter:end:002-AOP.Rmd-->
+
+# AUG - Augenklinik
+
+M. Trausch
+
+> ***`r fa("map-marker-alt")`*** Haus 33. OP-Trakt ist in der 1. Etage. Der Zugang zur OP-Schleuse über Treppenhaus auf der Rückseite (Seite Fetscherstr.)
+
+**`r fa("phone-square-alt")` Wichtige Telefonnummern**
+
++------------------------+--------------+
+|                        | Nummer       |
++:=======================+=============:+
+| Bereichsleiter         | 18048        |
++------------------------+--------------+
+| ANE-Einleitung         | 2114         |
++------------------------+--------------+
+| ANE-Pflege             | 11802        |
++------------------------+--------------+
+| AUG-Aufwachraum        | 2687         |
++------------------------+--------------+
+| AUG-S1                 | 13451 (3451) |
++------------------------+--------------+
+| AUG-S4                 | 12352 (2352) |
++------------------------+--------------+
+| Vorbereiter (AUG-Arzt) | 12114        |
++------------------------+--------------+
+
+## Allgemeines-Augenklinik
+
+### Besonderheiten
+
+-   Stationäre Kinder kommen im Bett aus der Kinderklinik (Übergänge).
+-   Ambulante Patienten Mittwoch und Donnerstag im Haus.
+
+### Prämedikation
+
+-   Augenklinik bestimmt i.d.R. KEINE Routinelaborwerte (bei Erfordernis „Bitte Labor!" vermerken).
+-   Antihypertensiva (Dauermedikation) BEIBEHALTEN
+
+### Anästhesieführung
+
+-   postoperative Schmerztherapie mit peripheren Analgetika ausreichend
+-   AWR: Montags kein Anspruch auf ANE-Pflegekraft für AWR
+-   Besonderheiten Stationäre Kinder aus Kinderklinik
+-   Ambulante Patienten Mi + Do im Haus
+
+### Schmerztherapie
+
+-   in der Regel sind periphere Analgetika für die postoperative Schmerztherapie ausreichend.
+
+### Aufwachraum
+
+-   Montags normalerweise keine Anästhesie-Pflegekraft für den AWR
+
+## Eingriffe
+
+### DMEK (Descement Mebrane Endothelial Keratoplasty)
+
+-   Prämedikation: keine Besonderheiten
+-   Anästhesieführung LM/ ITN
+-   Zugänge/Monitoring Standard
+
+### Enukleation
+
+-   Beschreibung (kurz): Entfernung des Bulbus oculi\
+
+-   Beschreibung (lang):
+
+    -   Bei einer Enukleation wird der Bulbus oculi entfernt. Indikationen sind Tumoren (z.B. Retinoblastom, Melanom), Phthisis bulbi und gelegentlich direkte Traumafolgen. Bei der OP werden das hinter dem Auge befindliche Bindegewebe und die Augenmuskeln belassen. Der Augapfel wird meist durch eine Plombe ersetzt und an dieser die Augenmuskeln teilweise fixiert. So kann sich die später eingesetzte Augenprothese teilweise zum gesunden Auge mitbewegen.
+    -   Bei einer Exenteration des Auges werden zusätzlich auch das Bindegewebe und die Augenmuskeln entfernt.
+
+-   Prämedikation: keine Besonderheiten
+
+-   Anästhesieführung: ITN
+
+-   Zugänge/Monitoring: Standard
+
+### Glaukom-OP
+
+-   Beschreibung (lang):
+
+    -   Zyklophotokoagulation (ZPK)
+
+        -   Hier wird durch eine gezielte Laserbehandlung ein Teil des Ziliarkörpers vernarbt. Im Ziliarkörper wird das Kammerwasser produziert; durch eine teilweise Vernarbung erreicht man, dass weniger Kammerwasser produziert wird, und der Augendruck damit sinkt.
+        -   Der Eingriff dauert nur wenige Minuten und kann in örtlicher Betäubung durchgeführt werden. Ggf. wird eine Allgemeinanästhesie mit Larynxmaske durchgeführt.
+
+    -   Trabekelektomie (TE)
+
+        -   Hier wird ein künstlicher Abflussweg für das Kammerwasser zu einer vorpräparierten Bindehauttasche geschaffen. Damit der neue Abfluss durch ablaufende Reparaturprozesse (Verwachsung, Narben) nicht wieder verschlossen wird, kommt Mitomycin C (MMC) zum Einsatz.
+        -   Operationszeit ca. 40 min.
+
+    -   Ahmed-Implantat
+
+        -   Hier handelt es sich um ein Drainagesystem, das über eine Mikro-Schlauchverbindung Kammerwasser von der Vorderkammer des Auges zu einem unter die Bindehaut eingesetzten Implantat leitet, von wo das Kammerwasser über die Bindehaut resorbiert wird.
+        -   Die Operationszeit beträgt ca. 45 min.
+
+    -   Preserflo-Implantat
+
+        -   Implantation eines Mikro-Schlauches, der Kammerwasser aus der Vorderkammer in eine vorpräparierte Bindehauttasche ableitet.
+
+-   Beschreibung (kurz):
+
+    -   ZPK, Zyklokryotherapie, TE, Ahmed-Implantat, InnFocus-(Preserflo-)Implantat
+
+-   Prämedikation: Zyklophotokoagulation (ZPK) bitte auf orale PM verzichten
+
+-   Anästhesieführung: LAMA, ITN
+
+-   Zugänge/Monitoring: Standard
+
+### Katarakt-OP
+
+-   Beschreibung (lang):
+
+    -   Bei der Kararakt-OP (bei uns umgangssprachlich mit "Phako" oder "Phako/HKL" bezeichnet) wird die getrübte Linse durch ein künstliches Linsenimplantat (siehe Abbildung) ersetzt. Der Eingriff erfolgt meist in Retrobulbäranästhesie. Falls eine Anästhesie erforderlich ist, wird meist eine Larynxmaske selten eine ITN durchgeführt.
+    -   OP-Dauer bis ca. 10 min (bei schwierigen Verhältnissen bis 40 min).
+
+-   Prämedikation: keine Besonderheiten
+
+-   Anästhesieführung: LAMA, ITN
+
+-   Zugänge/Monitoring: Standard
+
+### Keratoplastik, perforierende ANE-Wiki
+
+-   Prämedikation: keine Besonderheiten
+-   Anästhesieführung: ITN
+-   Zugänge/Monitoring: Standard
+-   Besonderheit: 150 mg Prednisolon, 500 mg Acetazolamid
+
+### Narkoseuntersuchung ANE-Wiki
+
+-   Prämedikation: keine Besonderheiten
+-   Anästhesieführung: LAMA, ITN
+-   Zugänge/Monitoring: Standard
+
+### PPV, kryo/limbusparallele Plombe ANE-Wiki
+
+-   Prämedikation: keine Besonderheiten
+-   Anästhesieführung: ITN
+-   Zugänge/Monitoring: Standard
+
+### Schiel-OP ANE-Wiki
+
+-   Prämedikation: keine Besonderheiten
+-   Anästhesieführung: LAMA, ITN
+-   Zugänge/Monitoring: Standard
+-   Besonderheiten: Glycopyrronium, Granisetron
+
+### Tränenwegs-OP ANE-Wiki
+
+-   Beschreibung:
+
+    -   Kinder: Spülung u/o. Schlingenintubation;
+    -   Erw.: oft als Dakryozystorhinostomie (DCR)
+
+-   Prämedikation: keine Besonderheiten
+
+-   Anästhesieführung: LM, DCR immer ITN
+
+-   Zugänge/Monitoring: Standard
+
+-   Besonderheiten: bei DCR Rachentamponade
+
+<!--chapter:end:003-AUG.Rmd-->
+
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# AUS-Außenbereich
+
+D. Haufe
+
+## Wichtige Telefonnummern
+
+Bereichsleiter: 10465
+
+## Allgemeines
+
+## Eingriffe/Interventionen
+
+### Angiographie-Interventionen
+
+> ***`r fa("map-marker-alt")`*** Angio HS 9, EG
+
+[**Interventionen:**]{.ul}
+
+-   **TIPS (oder TIPSS)** transjugulärer intrahepatischer
+    portosystemischer (Stent-) Shunt; Schleuse V. jug. int., darüber
+    US-gestützte Pfortaderpunktion, Dilatation, Stent, ANE nur bei sehr
+    unkooperativen Pat.
+-   **Bergung** abgerissener Portkatheter venöse Schleuse,
+    Rechtsherzpassage (cave: ventrikuläre Herzrhythmusstörungen),
+    „Einfangen" im Pulmonalisstromgebiet
+-   **PTA/Stent** bei pAVK
+-   venöser Beckenstent bei rezidivierender Beinvenenthrombose,
+    Schleuse V. poplitea, Bauchlage
+-   **transvenöse Nierenbiopsie** venöse Schleuse, Punktion via
+    Nierenvene
+-   **Stent/Coiling** bei akuter (viszeraler) Blutung
+-   **Embolisierung/Coiling** bei nicht-zerebralen Gefäß-Malformationen
+-   **PTCD** perkutane transhepatische Cholangiodrainage, Punktion der
+    Gallenwege und Ableitung nach außen, septische Einschwemmung bei
+    Cholangitis mgl.
+-   **Pfortaderembolisation** transkutane Punktion der Pfortader und
+    Embolisation eines Astes mit Gewebekleber, vor Hemihepatektomie
+-   **Dialyse-Shunt**: arterielle Schleuse A. ulnaris, venöse Schleuse
+    Oberarm, kurzer Stromimpuls cubital zwischen a. und v. Katheter,
+    Plug-in eine tiefe Vene
+
+[**Prämedikation**]{.ul}
+
+-   Standard
+
+[**Anästhesieführung**]{.ul}
+
+-   arterielle/venöse Schleuse durch RAD,
+
+-   Intervention häufig in Analgosedierung suffizient mgl.,
+
+-   sonst LaMa/ITN,
+
+-   Dialyse-Shunt auch mit ax. Plexusblockade,
+
+-   Leber-Interventionen eher in Narkose
+
+[**Zugänge/Monitoring:**]{.ul}
+
+-   Standard, bei Blutung großlumig/invasiv
+
+[**AWR**]{.ul}
+
+-   keiner, ANE-Betreuung bis zur Abholung durch Station
+
+[**Besonderheiten**]{.ul}
+
+-   kein BGA-Gerät (-\> URO-OP, NEU-ITS 4. Etage),
+
+-   TIVA-Turm, Standard-Kommode + Kommode für invasive Zugänge sowie
+    Mikrowelle vorhanden,
+
+-   zeitnah im Logbuch Rücktransport anmelden
+
+## Bronchoskopie, starr
+
+> ***`r fa("map-marker-alt")`*** Ort Med. Endoskopie, DINZ (HS 27), EG
+
+[**Beschreibung:**]{.ul}
+
+-   Intubation mit starrem Rohr durch Pulmonologen,
+
+-   endobronchialer Ultraschall EBUS, Biopsie-Entnahmen,
+
+-   Tu-Teilresektion bronchial/tracheal,
+
+-   Ventilimplantation bei COPD, Dauer ca. 30-90 min
+
+[**Prämedikation:**]{.ul} Standard
+
+[**Anästhesieführung:**]{.ul}
+
+-   TIVA, Einleitung mit Maskenbeatmung,
+
+-   bei TOF=0 ITN durch Pulmo,
+
+-   Jet-Beatmung (Twin-Stream),
+
+-   LaMa zur Ausleitung
+
+[**Zugänge/ Monitoring:**]{.ul}
+
+-   Standard, transkutane Kapnometrie vor Ort verfügbar
+
+[**AWR:**]{.ul}
+
+-   Endoskopie-AWR (Überwachung durch MED-Personal)
+
+[**Besonderheiten:**]{.ul}
+
+-   Narkosegerät, Kommode und TIVA-Turm aus MRT-Vorbereitung H27,
+
+-   Jet-Gerät (Twin-Stream) stellt Pulmo
+
+## CT-gestützte Punktion
+
+> ***`r fa("map-marker-alt")`*** CT1 (H59, EG)
+
+[**Beschreibung:**]{.ul}
+
+-   diagnostische (meist Knochen wie WS oder Becken) bzw. therapeutische
+    (z.B. abdominelle Abszessdrainage) Punktionen,
+
+-   Interventionszeit ca. 20-30 min
+
+[**Prämedikation:**]{.ul} Standard
+
+[**Anästhesieführung:**]{.ul}
+
+-   WS-/Beckenpunktion meist in Seitenlage mgl.,
+
+-   tiefe Analgosedierung oder Lama/ITN
+
+[**Zugänge/Monitoring:**]{.ul}
+
+-   Standard, Monitor fernbedienbar (Computer „Monitoring" im
+    Kontrollraum, Programm XDS)
+
+[**AWR:**]{.ul}
+
+-   AWR1 oder VL auf Normalstation
+
+[**Besonderheiten:**]{.ul}
+
+-   Kommode und Perfusoren aus NRAD, ggf. 2. Kommode AWR 2. Ebene
+
+## Elektrokrampftherapie
+
+-\> AneWIKI
+
+> ***`r fa("map-marker-alt")`*** Behandlungsraum PSY-S4 (H25)
+
+| EKT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Auslösen eines generalisierten Krampfanfalls durch zerebrale Stromapplikation; Behandlungsserie (12 x und z.T. deutlich mehr, initial Mo-Mi-Fr, dann Ausschleichen)                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Indikation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| therapierefraktäre Depression (seltener Schizophrenie)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Prämedikation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Aufklärung für die gesamte Serie, Geschäftsfähigkeit beachten, keine med. PM (Heben der Krampfschwelle), KI beachten (z.B. ICD)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Anästhesieführung**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Maskennarkose; Flexüle und RR-Manschette am selben (linken) Arm; vor Induktion Glycopyronium; Induktion mit Alfentanil (von PSY-S4) und Etomidat, vor Relaxans Tourniquet am freien Arm über RRsys (motorische Krampfkontrolle im EMG), Succinylcholin; vor Krampfauslösung Hyperventilation; Stimulation in Apnoe, erforderliche Krampfdauer \> 20 sec; ab 120 sec Gabe von Propofol/ Benzodiazepin; initial nicht selten selbstlimitierende Asystolie für einige Sekunden, dann z.T. deutliche sympathomimetische Reaktion mit Hypertension und Tachykardie (ggf. Urapidil/Betablocker), Dauer der Aufwachphase variabel |
+| **Zugänge/Monitoring**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Standard                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **AWR**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Übergabe an Station bei zunehmender Vigilanz und stabilen Vitalparametern, 2 h Betreuung durch Sr. PSY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Besonderheiten**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| kein zentraler Gasanschluss (O2-Flasche nach Narkose schließen)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+## Endo-Vac
+
+> ***`r fa("map-marker-alt")`*** Gastroskopie-Raum, Chir. Endoskopie,
+> H59, EG
+
+-   Beschreibung: endoskopische Anlage Mini-VAC-Schwämmchen bei
+    Anastomosen-Insuffizienz nach Ösophagusresektion oder Gastrektomie,
+    Dauer 10-20 min, Behandlungsserie mit 2 Wechseln pro Woche (Mo+Do
+    oder Di+Fr)
+
+-   Prämedikation: vor VAC-Anlage Aufklärung für die gesamte Serie,
+    meist keine med. PM • Anästhesieführung: ITN
+
+-   Zugänge/Monitoring: Standard (Relaxometrie!)
+
+-   AWR: direkte VL auf Station, AWR1 mgl. (cave: häufig multiresistente
+    Keime) • Besonderheiten: Narkosegerät und Kommode im
+    gegenüberliegenden Raum holen, 2 Perfusoren vorhanden
+
+## ESD
+
+> ***`r fa("map-marker-alt")`*** Med. Endoskopie, DINZ (H27), EG
+
+-   Beschreibung: Endoskopische Submukosadissektion: minimal-invasives
+    gastroskopisches Herauspräparieren eines auf die Mukosa begrenzten
+    (meist Magen-)Tumors im Frühstadium, Dauer ca. 2-3 h,
+    Magenperforation möglich
+
+-   Prämedikation: Standard
+
+-   Anästhesieführung: ITN
+
+-   Zugänge/Monitoring: Standard
+
+-   AWR: meist direkte Verlegung auf MK-ITS2, sonst Endoskopie-AWR
+    (Überwachung durch MED-Personal) mgl.
+
+-   Besonderheiten: Narkosegerät, Kommode und Perfusoren aus
+    MRT-Vorbereitung DINZ holen, CO2-Insufflation über Endoskop -\>
+    Hyperkapnie, AMV, teilweise Kapnoperitoneum mit deutlicher
+    Steigerung der Beatmungsdrücke, zur Entlastung intraperitoneale
+    Flexüle durch Internist
+
+## MRT
+
+> ***`r fa("map-marker-alt")`*** MRT DINZ H27, EG, MRT H59, EG
+
+[**Beschreibung:**]{.ul}
+
+-   meist Schädel-MRT vor neurochirurgischer Tiefenhirnstimulation bei
+    Mb. Parkinson (Tremor),
+
+-   Dauer ca. 45-60 min,
+
+-   seltener Narkose für demente, klaustrophobische oder chron.
+    Sz-Patienten
+
+[**Prämedikation:**]{.ul}
+
+-   vor THS Aufklärung und Einverständnis für MRT und OP (2
+    Narkoseprotokolle), PM nach Standard • Anästhesieführung: ITN
+
+[**Zugänge/Monitoring:**]{.ul}
+
+-   Standard, HS 27: Vitalparameter und Gasmonitoring über
+    Radiologie-MRT-Monitor, keine Fernübertragung in Kontrollraum, HS
+    59: Fernübertragung
+
+[**AWR:**]{.ul}
+
+-   Endoskopie-AWR (Überwachung durch MED-Personal), b.B. VL auf MK-ITS2
+
+[**Besonderheiten:**]{.ul}
+
+-   HS 59: MRT-fähiges Perfusor-Rack
+
+-   HS 27: bei Katecholaminbedarf MRT-taugliche Spritzenpumpe auf
+    NEU-ITS oder MK-ITS, wird auf Anfrage zur Verfügung gestellt und
+    programmiert (ANE-Personal ist nicht eingewiesen!)
+
+## Photonenbestrahlung
+
+> ***`r fa("map-marker-alt")`*** Strahlenklinik, Therapie 4 oder 5
+> (HS44, Schuberstraße), EG
+
+[**Beschreibung:**]{.ul}
+
+-   Kleinkinder (1 bis ca. 4 Jahre), „Stillhaltenarkose" für die nur
+    wenige Minuten dauernde Bestrahlung; Serie von ca. 10-20
+    Einzelsitzungen (2-4 Wochen)
+
+[**Prämedikation:**]{.ul}
+
+-   Aufklärung für die gesamte Serie, in der Regel keine PM notwendig
+
+[**Anästhesieführung:**]{.ul}
+
+-   LaMa (Propofol/Ultiva), ggf. Propofolsedierung mit Spontanatmung
+
+[**Zugänge/Monitoring:**]{.ul}
+
+-   Kinder haben angeschlossenen Hickman-Katheter, Standardmonitoring,
+    Übertragung an Datenmonitor in Kontrollraum (Programm XDS)
+
+[**AWR:**]{.ul}
+
+-   einer, ANE-Betreuung bis zur Abholung durch Station
+
+[**Besonderheiten**]{.ul}
+
+-   Narkosegerät aus Vorraum Therapie 3 holen (Brachytherapie),
+    Einleitung in Anwesenheit der Eltern am Bestrahlungsplatz, zeitnah
+    im Logbuch Rücktransport anmelden
+
+## POEM ANE-Wiki
+
+> ***`r fa("map-marker-alt")`*** Mediz. Endoskopie, DINZ (HS 27), EG
+
+[**Beschreibung:**]{.ul}
+
+-   Perorale endoskopische Myotomie: minimal invasive Behandlung der
+    Achalasie, gastroskopische Mukosainzision in Höhe mittlerer
+    Ösophagus, submuköse Dissektion bis zum gastroösophagealen Übergang
+    (Tunnelung zum Infektionsschutz), dort Muscularis-Inzision, zuletzt
+    Miniclips an Mukosa-Inzisionsstelle;
+
+-   Dauer 2-3 Stunden,
+
+-   Perforation möglich,
+
+-   z.T. auch POEM eines spastischen Pylorus Prämedikation: Standard
+
+[**Anästhesieführung:**]{.ul} ITN
+
+[**Zugänge/Monitoring:**]{.ul} Standard
+
+[**AWR:**]{.ul} direkte Verlegung MK-ITS2
+
+[**Besonderheiten:**]{.ul}
+
+-   Narkosegerät und Kommode aus MRT-Vorbereitung DINZ holen,
+
+-   CO2-Insufflation über Endoskop -\> Hyperkapnie, AMV,
+
+-   regelhaft Hautemphysem und Kapnoperitoneum mit deutlicher Steigerung
+    der Beatmungsdrücke, zur Entlastung intraperitoneale Flexüle durch
+    Internisten
+
+## Protonenbestrahlung
+
+> ***`r fa("map-marker-alt")`*** Oncoray (HS 130, Schubertstr.), 1. UG
+
+-   Beschreibung: im Vgl. zur konventionellen Radiatio gewebeschonendere
+    Bestrahlung von Malignomen; Anästhesie für Kleinkinder (1 bis ca. 4
+    Jahre), meist mit Hirntumor; „Stillhaltenarkose" für ca. 15-20 min;
+    bei kraniospinaler Achse (Kopf+WS) ca. 30-45 min (Bauchlage), Serie
+    von ca. 30 täglichen Einzelsitzungen (6 Wochen)
+
+-   Prämedikation: Aufklärung für die gesamte Serie, in der Regel keine
+    PM notwendig
+
+-   Anästhesieführung: LaMa, bei Bauchlage ITN, TIVA (Propofol/Ultiva) •
+    Zugänge/Monitoring: Kinder haben angeschlossenen Hickman-Katheter,
+    Standardmonitoring, Übertragung Datenmonitor in Kontrollraum
+
+-   AWR: ANE-Betreuung bis zur Abholung durch Station
+
+-   Besonderheiten: Einleitung in Anwesenheit der Eltern im AWR, ca. 1
+    min Fahrt bis zum Bestrahlungsplatz bzw. zurück (Beutelbeatmung oder
+    Apnoe nach Präoxygenierung), zeitnah im Logbuch Rücktransport
+    anmelden
+
+## RFA
+
+> ***`r fa("map-marker-alt")`*** CT1 (HS 59, EG)
+
+[**Beschreibung:**]{.ul}
+
+-   Radiofrequenzablation: Therapie bei malignen Tumoren der Leber (HCC,
+    Metastasen), seltener Niere (Bauchlage), Lunge, oder benignen
+    Knochentumoren;
+
+-   RFA WS Facettengelenke bei radikulären Schmerzen (Bauchlage);
+
+-   CT-gestützte Punktion, Applikation von Hochfrequenzstrom mit
+    Thermonekrose, Dauer pro Herd ca. 10-20 min, bei Mikrowelle deutlich
+    kürzer
+
+[**Prämedikation:**]{.ul} Standard
+
+[**Anästhesieführung:**]{.ul}
+
+-   LaMa/ITN, bei RFA Leber und Facettengelenken Analgosedierung mgl.
+    (ungünstig: starke Atemverschieblichkeit der Leber bei höherer
+    Opioiddosierung)
+
+[**Zugänge/Monitoring:**]{.ul}
+
+-   Standard, Monitor fernbedienbar von Computer im Kontrollraum
+    (Programm XDS)
+
+[AWR:]{.ul}
+
+-   AWR1 oder VL auf Normalstation
+
+[**Besonderheiten:**]{.ul}
+
+-   Kommode und ggf. Perfusoren aus NRAD, 2. Kommode im AWR 2. Ebene
+
+<!--chapter:end:004-AUS.Rmd-->
+
+
+# GYN - Gynäkologie und Geburtshilfe
+
+W. Lorenz
+
+| Wichtige Telefonnummern       |             |
+|-------------------------------|-------------|
+| Bereichsleiter                | 19003       |
+| Pausenraum                    | 4743        |
+| GYN-Wachzimmer                | 4742        |
+| GYN-AWR                       | 6842        |
+| Station GYN-S1 (präpartal)    | 12456       |
+| Station GYN-S1 (postpartal)   | 12181       |
+| Station GYN-S3 (operativ)     | 14736       |
+| Station GYN-S3 (Brustzentrum) | 14737/13302 |
+| Kreissaal                     | 2365        |
+
+### Follikelpunktion
+
+-   Prämedikation: keine Besonderheiten
+
+-   Anästhesieführung: Maske
+
+-   Zugänge/Monitoring: Standard
+
+### Hysterektomie, abdominell
+
+-   Prämedikation: keine Besonderheiten
+
+-   Anästhesieführung: ITN
+
+-   Zugänge/Monitoring: Standard Hysterektomie, vaginal
+
+-   Prämedikation: keine Besonderheiten
+
+-   Anästhesieführung: CSE (ggf. ITN)
+
+-   Zugänge/Monitoring: Standard Hysteroskopie, operativ
+
+-   Prämedikation: keine Besonderheiten
+
+-   Anästhesieführung: LM
+
+-   Besonderheiten: Hysteroskopiesyndrom durch Einschwemmung, strenge Bilanzierung durch Operateur, alle 30 min BGA
+
+### Kleine Eingriffe (Hysteroskopie (HSK), Abrasio)
+
+Prämedikation: keine Besonderheiten
+
+Anästhesieführung: Maske/LM/ bei Adipositas Spa
+
+Besonderheiten: bei HSK Einschwemmung analog TUR-Syndrom möglich
+
+### Laparoskopie
+
+Prämedikation: keine Besonderheiten
+
+Anästhesieführung: ITN, beide Arme angelagert
+
+Zugänge/Monitoring: Standard
+
+### Laparoskopie (da Vinci)
+
+Prämedikation: ZVK, ADM aufklären, OP H27 (URO)
+
+Anästhesieführung: TIVA, PEEP mind. 10
+
+Zugänge/Monitoring: ZVK, ADM, BIS, TOF
+
+Besonderheiten: beide Arme angelagert, Vakuum-Matratze, ggf. CPAP im AWR
+
+### Mamma-OP
+
+Prämedikation: keine Besonderheiten
+
+Anästhesieführung: ITN/LM
+
+Zugänge/Monitoring: Standard
+
+Besonderheiten: Intraop. Lagerungskontrolle nach Aufsetzen
+
+### Ovarial-Ca (Expl. Laparotomie)
+
+Beschreibung: HE mit Adnexen + OE + RLA + Deperitonealisierung
+
+Prämedikation: keine Besonderheiten
+
+Anästhesieführung: ITN + TEA • Zugänge/Monitoring: ZVK, ADM
+
+Besonderheiten: hoher Volumenbedarf, post_OP ITS/IMC
+
+PDA zur Geburt ANE-Wiki
+
+Anästhesieführung: LEA
+
+Zugänge/Monitoring: peripherer Zugang/ CTG + Standard
+
+Besonderheiten: Initial 10-12 ml Naropin 0,1% + 0,625µ/ml Sufenta, weiter mit PCEA n. KS-Protokoll
+
+### Portanlage:
+
+Prämedikation: keine Besonderheiten
+
+Anästhesieführung: LA mit Sedierung
+
+Zugänge/Monitoring: Standard
+
+Sectio caesaria
+
+Prämedikation: keine
+
+Anästhesieführung: SPA (bei Notsectio ITN)
+
+Zugänge/Monitoring: Standard
+
+AWR: bei Besonderheiten sonst Kreissaal
+
+Besonderheiten: Mitteldruck \> 70 mmHg, Linksseitenlage, Oxytocin als Kurzinfusion TVT (tensionfree vaginal tape)
+
+Prämedikation: keine Besonderheiten
+
+Anästhesieführung: LA mit Sedierung
+
+Zugänge/Monitoring: Standard
+
+TMMR
+
+Prämedikation: keine Besonderheiten
+
+Anästhesieführung: ITN + TEA
+
+Zugänge/Monitoring: ZVK, 2 Flexülen, invasive ADM
+
+Besonderheiten: 4EK (2x gekreuzt, 2x BAB Vulvektomie
+
+Prämedikation: keine
+
+Besonderheiten:
+
+Lehnt eine Patientin eine thorakale PDA ab, bitte immer die Klinikdirektorin GYN informieren!
+
+Antibiotikaprophylaxe erfolgt vor/ nach Einleitung nach Anordnung durch den Operateur im Orbis OP-Plan • Anästhesieführung: CSE (ggf. ITN)
+
+Zugänge/Monitoring: Standard
+
+<!--chapter:end:005-GYN.Rmd-->
+
+`r if (knitr::is_html_output()) '
+# References {-}
+'`
+
+<!--chapter:end:100-references.Rmd-->
+
